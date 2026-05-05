@@ -1,2 +1,2 @@
 # PSADT-SoftwareInstaller
-Here I add some of the installer script created with PSADT
+Here, I have added some of the installer scripts created with PSADT.
